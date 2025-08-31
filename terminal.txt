@@ -1,0 +1,4 @@
+cd /home/josh-gibb/Desktop/CSCIProject
+source venv/bin/activate
+python3 main.py
+
